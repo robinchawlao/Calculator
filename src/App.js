@@ -51,7 +51,7 @@ const App = () => {
         <button className= { but_design } onClick={()=>clickHandler('=')}>=</button>
       </div>
     </div>
-    // <footer className='lg:w-screen bg-white text-center text-lg absolute bottom-0'>Made with ♥ by MK Gupta</footer>
+    // <footer className='lg:w-screen bg-white text-center text-lg absolute bottom-0'>Made with ♥ by Robin</footer>
     </>
   )
 }
